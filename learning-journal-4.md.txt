@@ -1,0 +1,26 @@
+#
+Journal day 4
+
+What a week!  Day one and two I was chomping at the bit but feeling underwhealmed with the material.  Last night is when
+shit hit the proverbial fan.  Not in a bad way, but I was trying to create a loop and failed at it for at least 2 hours. 
+I eventually took some help from my brothers and significantly helped me with the code.
+
+The logic aspect of learning js, html, and css is the most intellecually stimulating thing I have ever done in my life.
+I am equal parts frustrated, challenged, and excited and inspired.  I haven't immersed myself into something like this in
+a long, long time, and it feels great.
+
+That said, aside from the problem solving challenges (which are fun), for me the biggest challenge has come from managing 
+and learning how to use all of the tools outside of coding.  Canvas does not feel intuitive at all, and it's been challenging
+to know where to go for various pieces of information.  For example, I would expect to see lab outlines and such in Canvas,
+but I then would have to spend 5-10 minutes backtracking all of the new apps I installed and various links and pages within these
+the new apps to try and find the information I need.  I have made crushing mistakes in git bash i.e. deleting hours of work I 
+had done, I have thought I have submitted assignments only to find out I hadn't.  Learning the code has been awesome, the 
+other stuff actually has me a bit nervous.  I don't want this mundane stuff to affect my progress, but it's starting to feel
+overwhealming and extremely frustrating.
+
+All in all, this experience has already been priceless and the future implications of this experience are very exciting.
+I am confident I will iron out these problems with git hub, git bash, canvas etc...  
+
+
+
+
